@@ -20,8 +20,13 @@ A deep learning project that recognizes characters from *The Simpsons* using Ope
       pip install -r requirements.txt
 
 
-  
----
+## 📂 Dataset
+
+This project uses the **"Simpson Faces"** dataset from Kaggle.  
+You can download it here:  
+🔗 [Kaggle Dataset Link]([https://www.kaggle.com/datasets/kostastokis/simpsons-face](https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset/code?datasetId=1408&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false)
+
+
 
 ### **License** (`## 📜 License`)
 ```markdown

@@ -16,7 +16,7 @@ A deep learning project that recognizes characters from *The Simpsons* using Ope
    git clone https://github.com/yourusername/simpsons-face-recognition.git
    cd simpsons-face-recognition
 2. **Install dependencies**:
-   
+    ```bash
       pip install -r requirements.txt
 
 

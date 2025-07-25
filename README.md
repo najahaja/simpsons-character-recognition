@@ -1,6 +1,6 @@
 # Simpson Face Recognition using OpenCV and Deep Learning
 
-![Project Demo](images/demo.png) *(Optional: Add a screenshot if available)*
+
 
 A deep learning project that recognizes characters from *The Simpsons* using OpenCV for face detection and TensorFlow/Keras for CNN-based classification.
 
@@ -15,7 +15,8 @@ A deep learning project that recognizes characters from *The Simpsons* using Ope
    ```bash
    git clone https://github.com/yourusername/simpsons-face-recognition.git
    cd simpsons-face-recognition
-2. **Install dependencies:**
+2. **Install dependencies**:
+   
    pip install -r requirements.txt
 
 

@@ -17,7 +17,7 @@ A deep learning project that recognizes characters from *The Simpsons* using Ope
    cd simpsons-face-recognition
 2. **Install dependencies**:
    
-   pip install -r requirements.txt
+      pip install -r requirements.txt
 
 
   
